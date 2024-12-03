@@ -1,0 +1,6 @@
+@Secure_Role_Bases_Access_Control_System_with_JWT_HostAddress = http://localhost:5179
+
+GET {{Secure_Role_Bases_Access_Control_System_with_JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
